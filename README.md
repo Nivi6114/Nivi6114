@@ -3,20 +3,21 @@
 ### 
 
 <div align="center">
-  <img height="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazcwZThlcHFiNjFnemN6Y2Vmd3c0c2hyeDZvemVqMXRtM2h1MThhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 </div>
 
 ### ⚡ My Activity Snapshot
-
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nivi6114&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nivi6114&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nivi6114&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Nivi6114&theme=discord&column=8&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  
 </div>
 
 ### 🎯 My Skill Set
-
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -52,7 +53,7 @@
 </div>
 
 ### 🌐 Let's Connect!
-
+<br>
 <div align="center">
   <a href="sainivedithabukka@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -84,7 +85,7 @@
 ### 📍Visitor Insights
 
 <div align="center">
-  <a href="https://u8views.com/github/Nivi6114"><img src="https://u8views.com/api/v1/github/profiles/97615073/views/day-week-month-total-count.svg"></a>
+  <a href="https://u8views.com/github/Nivi6114"><img src="https://u8views.com/api/v1/github/profiles/134807378/views/day-week-month-total-count.svg"></a>
 </div>
 
 ###
