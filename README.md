@@ -1,19 +1,21 @@
 <h2 align="left">Hi 👋! I'm Sai Niveditha Bukka...</h2>
 
-###
+### 
 
 <div align="center">
   <img height="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-###
+### ⚡ My Activity Snapshot
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nivi6114&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nivi6114&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nivi6114&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nivi6114&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Nivi6114&theme=discord&column=8&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
+### 🎯 My Skill Set
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -46,10 +48,10 @@
 ###
 
 <div align="center">
-  <img height="30" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+  <img height="35" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
 </div>
 
-###
+### 🌐 Let's Connect!
 
 <div align="center">
   <a href="sainivedithabukka@gmail.com" target="_blank">
@@ -78,17 +80,11 @@
 
 <img src="https://raw.githubusercontent.com/Nivi6114/Nivi6114/output/snake.svg" alt="Snake animation" />
 
-###
+
+### 📍Visitor Insights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Nivi6114&theme=discord&column=8&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nivi6114&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nivi6114.Nivi6114&right_color=blueviolet&left_text=Visitors"  />
+  <a href="https://u8views.com/github/Nivi6114"><img src="https://u8views.com/api/v1/github/profiles/97615073/views/day-week-month-total-count.svg"></a>
 </div>
 
 ###
